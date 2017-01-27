@@ -6,7 +6,7 @@ I.E. If I want to track clicks in an <a> element with ID "trackLogo" like this o
 ```html
 <a id="trackLogo" href="http://www.example.com/" class="Example a elem">Example</a>
 ```
-I should add this element into the object like this:
+I should add this object to the array:
 
 ```javascript
 {
